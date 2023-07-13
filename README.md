@@ -1,9 +1,10 @@
-# QuoraStartupAnimation
+# QuoraDots
 
+![QuoraDots](https://github.com/RedisMadani/QuoraDots/assets/136177376/38d7911d-9c0f-4b53-8584-a558f4636704)
 
 ## Description
 
-QuoraStartupAnimation is a Swift app that showcases the startup animation of Quora. The animation is implemented using CGAffineTransform with UIView animation, utilizing the repeat and autoreverse features to achieve the desired effect. This app serves as a demonstration of how to recreate the captivating startup animation of Quora.
+QuoraDots is a Swift app that showcases the startup animation of Quora. The animation is implemented using CGAffineTransform with UIView animation, utilizing the repeat and autoreverse features to achieve the desired effect. This app serves as a demonstration of how to recreate the captivating startup animation of Quora.
 
 ## Features
 
@@ -13,31 +14,31 @@ QuoraStartupAnimation is a Swift app that showcases the startup animation of Quo
 
 ## Installation
 
-To run the QuoraStartupAnimation app on your local machine, follow these steps:
+To run the QuoraDots app on your local machine, follow these steps:
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/RedisMadani/QuoraStartupAnimation.git
+git clone https://github.com/RedisMadani/QuoraDots.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd QuoraStartupAnimation
+cd QuoraDots
 ```
 
 3. Open the Xcode project file:
 
 ```
-open QuoraStartupAnimation.xcodeproj
+open QuoraDots.xcodeproj
 ```
 
 4. Build and run the app using Xcode.
 
 ## Usage
 
-Once you have the QuoraStartupAnimation app running on a simulator or device, you can experience the Quora startup animation:
+Once you have the QuoraDots app running on a simulator or device, you can experience the Quora startup animation:
 
 - The main screen displays the startup animation inspired by Quora.
 - Watch as the animation plays, showcasing the captivating visual effects.
